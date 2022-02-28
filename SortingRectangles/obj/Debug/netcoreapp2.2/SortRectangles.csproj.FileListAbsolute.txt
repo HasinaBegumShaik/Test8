@@ -1,0 +1,14 @@
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\bin\Debug\netcoreapp2.2\SortRectangles.deps.json
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\bin\Debug\netcoreapp2.2\SortRectangles.runtimeconfig.json
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\bin\Debug\netcoreapp2.2\SortRectangles.runtimeconfig.dev.json
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\bin\Debug\netcoreapp2.2\SortRectangles.dll
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\bin\Debug\netcoreapp2.2\SortRectangles.pdb
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.csproj.CoreCompileInputs.cache
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.RazorAssemblyInfo.cache
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.RazorAssemblyInfo.cs
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.AssemblyInfoInputs.cache
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.AssemblyInfo.cs
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.RazorTargetAssemblyInfo.cache
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.dll
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.pdb
+c:\users\superman comuters\source\repos\SortRectangles\SortRectangles\obj\Debug\netcoreapp2.2\SortRectangles.csprojAssemblyReference.cache
